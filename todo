@@ -1,0 +1,24 @@
+-Create tile based level
+-Protaganist
+	-Walk/dig up, down, left, right
+	-Give Player 'air pump' weapon
+	-If connect w/ enemy will explode after several pumps
+
+-Counters
+	-Score counter 
+	-Life counter 
+	-Level counter
+
+-Enemies
+	-Spawn in open spaces (3-5 open tiles)
+	-Walk back and forth in their spaces
+	-Will occasionaly burrow towards player, turning into eyes
+	-Turn back once hit air tile
+	-Rocks
+		-When dug beneath, shake for one second and they fall
+	-Get faster with each level 
+
+*Bonus
+	-Starting animation for the game
+	-Dig Dug will start on surface and burrow down into center of level
+
